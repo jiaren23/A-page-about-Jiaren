@@ -1,0 +1,61 @@
+.htmlp{
+    display: inline-block;
+    display: none;
+    background-color: #ffa;		
+    padding: 0 10px ;	
+}
+.cssp{
+    display: inline-block;
+    display: none;
+    background-color: #ffa;		
+    padding: 0 10px ;
+}
+.jsp{
+    display: inline-block;
+    display: none;
+    background-color: #ffa;		
+    padding: 0 10px ;
+}
+.androidappp{
+    display: inline-block;
+    display: none;
+    background-color: #ffa;		
+    padding: 0 10px ;
+}
+.xdp{
+    display: inline-block;
+    display: none;
+    background-color: #ffa;		
+    padding: 0 10px ;
+}
+.aip{
+    display: inline-block;
+    display: none;
+    background-color: #ffa;		
+    padding: 0 10px ;
+}
+.psp{
+    display: inline-block;
+    display: none;
+    background-color: #ffa;		
+    padding: 0 10px ;
+}
+.prp{
+    display: inline-block;
+    display: none;
+    background-color: #ffa;		
+    padding: 0 10px ;
+}
+
+.ex{
+    padding: 0 0 50px;
+}
+h2{
+    font-size: 50px;
+}
+div{
+font-family:"Microsoft JhengHei";
+}
+h3{
+    font-family:"Microsoft JhengHei";
+}			
